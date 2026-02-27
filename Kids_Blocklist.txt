@@ -28,7 +28,7 @@
 0.0.0.0 Tumblr.com
 0.0.0.0 Monkey.cool
 0.0.0.0 Twitter.com
-0.0.0.0 Tinder
+0.0.0.0 Tinder.com
 0.0.0.0 Chatroulette.com
 0.0.0.0 4chan.org
 0.0.0.0 Ask.fm
@@ -102,7 +102,6 @@
 0.0.0.0 IllegalHack.com
 
 0.0.0.0 Stormfront.org
-0.0.0.0 4chan.org
 0.0.0.0 Gab.com
 0.0.0.0 NationalVanguard.org
 0.0.0.0 DailyStormer.su
