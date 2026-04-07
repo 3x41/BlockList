@@ -19,8 +19,6 @@
 0.0.0.0 joinclubhouse.com
 0.0.0.0 quora.com
 0.0.0.0 discord.com
-#xxxxxyoutube.com
-#xxxxxwhatsapp.com
 
 0.0.0.0 Omegle.com
 0.0.0.0 Toomics.com
@@ -106,5 +104,18 @@
 0.0.0.0 NationalVanguard.org
 0.0.0.0 DailyStormer.su
 
+0.0.0.0 gamepass.com
+0.0.0.0 twitch.com
+0.0.0.0 discordapp.com
+0.0.0.0 discord.com
+0.0.0.0 doubleclick.net
+0.0.0.0 tiktokv.com
+0.0.0.0 tiktok.com
+0.0.0.0 twitch.tv
 
+#_youtube.com
+#_whatsapp.com
+#_epicgames.com
+#_fortnite.com
+#_api.epicgames.dev
 
