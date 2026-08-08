@@ -20,6 +20,8 @@
 0.0.0.0 cdn.kargo.com
 0.0.0.0 sync.kargo.com
 0.0.0.0 pangleglobal.com
+0.0.0.0 ironSource.mobi
+0.0.0.0 pangleglobal.com
 
 # Analytics
 
@@ -45,6 +47,7 @@
 # Cryptominers & Malware
 
 0.0.0.0 greatis.com
+0.0.0.0 2giga.link
 
 # Social Trackers
 
@@ -93,6 +96,7 @@
 0.0.0.0 sdk.privacy-center.org
 0.0.0.0 cdn.privacy-mgmt.com
 0.0.0.0 app.usercentrics.eu
+0.0.0.0 usercentrics.eu
 
 # Affiliate Networks
 
