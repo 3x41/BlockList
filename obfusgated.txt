@@ -62,7 +62,7 @@
 0.0.0.0 pixel.quora.com
 0.0.0.0 px.srvcs.tumblr.com
 0.0.0.0 ads.vk.com
-0.0.0.0 vk.com/rtrg
+0.0.0.0 vk.com
 
 # OEM Vendors
 
